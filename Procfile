@@ -1,0 +1,1 @@
+web: python client.py   --master --processes 4 --threads 2
